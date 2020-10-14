@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>freelancernahid.com Personal Website</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"></link>
-	<link rel="stylesheet" name="text/css" href="blockdesign.css"/>
+	<link rel="stylesheet" name="text/css" href="style.css"/>
   </head>
   <body>
   
